@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-chat-app/static/css/main.073c9b0a.css",
-    "main.js": "/react-chat-app/static/js/main.7f1e6b96.js",
+    "main.css": "/react-chat-app/static/css/main.dbad79c6.css",
+    "main.js": "/react-chat-app/static/js/main.beb0e11f.js",
     "static/js/787.59784a59.chunk.js": "/react-chat-app/static/js/787.59784a59.chunk.js",
-    "static/media/logo.svg": "/react-chat-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/DevProfile.svg": "/react-chat-app/static/media/DevProfile.df15be68a76d3e481cf0325d3db1d7ae.svg",
     "index.html": "/react-chat-app/index.html",
-    "main.073c9b0a.css.map": "/react-chat-app/static/css/main.073c9b0a.css.map",
-    "main.7f1e6b96.js.map": "/react-chat-app/static/js/main.7f1e6b96.js.map",
+    "static/media/Danejw_Signature.svg": "/react-chat-app/static/media/Danejw_Signature.02a5d273734c5ddb40041a4fc0470041.svg",
+    "main.dbad79c6.css.map": "/react-chat-app/static/css/main.dbad79c6.css.map",
+    "main.beb0e11f.js.map": "/react-chat-app/static/js/main.beb0e11f.js.map",
     "787.59784a59.chunk.js.map": "/react-chat-app/static/js/787.59784a59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7f1e6b96.js"
+    "static/css/main.dbad79c6.css",
+    "static/js/main.beb0e11f.js"
   ]
 }
